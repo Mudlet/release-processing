@@ -1,1 +1,1 @@
-# release-processing
+# thank-translators
